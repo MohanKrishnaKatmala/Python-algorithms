@@ -26,9 +26,3 @@ def fibonacci_series(first_number=0,second_number=1):# no parameters nut can giv
   print(f"The total fibonacci series numbers are the {total_numbers} in the lines of the {actual_limit} lines.")
 # calling the function
 fibonacci_series()
-      
-      
-  
-  
-  
-f
