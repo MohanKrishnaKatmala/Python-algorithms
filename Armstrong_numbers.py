@@ -14,3 +14,4 @@ def Armstrong_numbers():
       total_numbers+=1 # this is to update the numbers to +1 every time add of the number.
   print()
   print(f"The total armstrong numbers up to limit {limit} is {total_numbers} numbers.")
+Armstrong_numbers()
