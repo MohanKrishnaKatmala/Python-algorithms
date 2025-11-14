@@ -4,9 +4,11 @@
 # Start numbers are 0 and 1. 
 def fibonacci_series(first_number=0,second_number=1):# no parameters nut can give for the where you start from the add.
   # starting numbers.
-  limit=int(input("enter a limit value that was lines not the numbers."))+2 # here we print the first numbers and second numbers.
+  print("convey that add the first and second numbers at frist so when give limit was increased by 2.")
+  limit=int(input("enter a limit value that was lines not the numbers."))
   print(first_number) # This to add the next number to end as the space as two words space.
   print(second_number)
+  actual_limit=limit+2
   total_numbers=2 # This is to get total numbers in that right angle triangle shpae numbers.
   save_first=first_number
   save_second=second_number
@@ -21,7 +23,7 @@ def fibonacci_series(first_number=0,second_number=1):# no parameters nut can giv
       second_number=summating
     print() # This like the add a new line for after one inner loop execution.
   print()
-  print(f"The total fibonacci series numbers are the {total_numbers} in the lines of the {limit} lines.")
+  print(f"The total fibonacci series numbers are the {total_numbers} in the lines of the {actual_limit} lines.")
 # calling the function
 fibonacci_series()
       
@@ -29,3 +31,4 @@ fibonacci_series()
   
   
   
+f
