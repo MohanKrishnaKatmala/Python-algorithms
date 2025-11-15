@@ -1,4 +1,4 @@
-# A armstrong number is the the length of the number is power raised to the individual digits and their sum is equal to the orginal number is called Armstrong number.
+''' A armstrong number is the the length of the number is power raised to the individual digits and their sum is equal to the orginal number is called Armstrong number. '''
 def Armstrong_numbers():
   limit=int(input("enter a limit value "))# numbers can give armstrong numbers up to this limit .
   total_numbers=0 # to count the total numbers.
