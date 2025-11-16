@@ -1,5 +1,6 @@
 """
 A prime number is the it has the two factors one was its own number and another one was common factor to all that was 1.
+0 and 1 are not prime numbers and composite numbers.
 Input:
 Take the input from the user for the input limit prime numbers were generate.
 Output:
