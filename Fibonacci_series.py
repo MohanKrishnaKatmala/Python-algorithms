@@ -3,6 +3,7 @@ Fibonacci series is the add the previous two  numbers get th third digit is call
 This was the add the fibonacci series in the right angle triangle shape.
 Fibonacci series was the continuous one that should be the definitely get the output for every loop instance so here thtat the right angle shape was happen to that fibonacci series.
 Start numbers are 0 and 1. 
+This series was the lines based give output.
 '''
 def fibonacci_series(first_number=0,second_number=1):# no parameters nut can give for the where you start from the add.
   # starting numbers.
