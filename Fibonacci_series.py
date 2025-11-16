@@ -1,7 +1,9 @@
-# Fibonacci series is the add the previous two  numbers get th third digit is called Fibonacci series.
-# This was the add the fibonacci series in the right angle triangle shape.
-# Fibonacci series was the continuous one that should be the definitely get the output for every loop instance so here thtat the right angle shape was happen to that fibonacci series.
-# Start numbers are 0 and 1. 
+''' 
+Fibonacci series is the add the previous two  numbers get th third digit is called Fibonacci series.
+This was the add the fibonacci series in the right angle triangle shape.
+Fibonacci series was the continuous one that should be the definitely get the output for every loop instance so here thtat the right angle shape was happen to that fibonacci series.
+Start numbers are 0 and 1. 
+'''
 def fibonacci_series(first_number=0,second_number=1):# no parameters nut can give for the where you start from the add.
   # starting numbers.
   print("convey that add the first and second numbers at frist so when give limit was increased by 2.")
