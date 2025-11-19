@@ -12,5 +12,5 @@ def rotate_list(outside_list,rotate_number):
     return outside_list    
 
 outside_list=[1,2,3,4,5]
-rotate_number=1
+rotate_number=2
 print(rotate_list(outside_list,rotate_number))
